@@ -1,0 +1,7 @@
+$font-size : 2rem; // 전역
+$font-color : royalblue;
+
+h1{
+    color: $font-color;;
+    font-size: $font-size;
+}
