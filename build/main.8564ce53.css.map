@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAGA,GACI,aAHU,CAIV","file":"main.8564ce53.css","sourceRoot":"..","sourcesContent":["$font-size : 2rem; // 전역\r\n$font-color : royalblue;\r\n\r\nh1{\r\n    color: $font-color;;\r\n    font-size: $font-size;\r\n}"]}
